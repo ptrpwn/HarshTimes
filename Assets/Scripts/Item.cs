@@ -9,7 +9,7 @@ public class Item
     public string description;
     public Sprite icon;
     public Dictionary<string, int> stats = new Dictionary<string, int>();
-    public bool hasItem;
+    public bool hasBreakoutItem;
 
     //Create item in inventory
     public Item(int id, string title, string description, Dictionary<string,int> stats)
@@ -18,7 +18,7 @@ public class Item
         this.title = title;
         this.description = description;
         this.stats = stats;
-        hasItem = true;
+        hasBreakoutItem = true;
 
         if (this.id == 50 || this.id == 51)
         {
@@ -38,6 +38,6 @@ public class Item
         description = item.description;
         icon = Resources.Load<Sprite>("Sprites/Items/" + item.title);
         stats = item.stats;
-        hasItem = item.hasItem;
+        hasBreakoutItem = item.hasBreakoutItem;
     }
 }

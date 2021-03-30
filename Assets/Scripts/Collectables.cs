@@ -18,14 +18,14 @@ public class Collectables : MonoBehaviour
             {
                 item = controller.GetComponent<Inventory>().CheckForItem(0);
 
-                if (item.hasItem)
+                if (item.hasBreakoutItem)
                 {
                     Debug.Log(item.title + " already in inventory");
                 }
                 else
                 {
                     controller.GetComponent<Inventory>().GiveItem(0);
-                    item.hasItem = true;
+                    item.hasBreakoutItem = true;
                     Destroy(gameObject);
                 }
             }
@@ -33,14 +33,14 @@ public class Collectables : MonoBehaviour
             {
                 item = controller.GetComponent<Inventory>().CheckForItem(1);
 
-                if (item.hasItem)
+                if (item.hasBreakoutItem)
                 {
                     Debug.Log(item.title + " already in inventory");
                 }
                 else
                 {
                     controller.GetComponent<Inventory>().GiveItem(1);
-                    item.hasItem = true;
+                    item.hasBreakoutItem = true;
                     Destroy(gameObject);
                 }
             }
@@ -48,14 +48,14 @@ public class Collectables : MonoBehaviour
             {
                 item = controller.GetComponent<Inventory>().CheckForItem(7);
 
-                if (item.hasItem)
+                if (item.hasBreakoutItem)
                 {
                     Debug.Log(item.title + " already in inventory");
                 }
                 else
                 {
                     controller.GetComponent<Inventory>().GiveItem(7);
-                    item.hasItem = true;
+                    item.hasBreakoutItem = true;
                     Destroy(gameObject);
                 }
             }

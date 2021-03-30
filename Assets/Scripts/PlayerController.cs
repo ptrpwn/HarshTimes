@@ -114,19 +114,14 @@ public class PlayerController : MonoBehaviour
 
     public void ChangeStamina(int amount)
     {
-        if (amount > 0)
-        {
-            currentStamina = Mathf.Clamp(currentStamina + amount, 0, maxStamina);
-            energyBar.SetStamina(currentStamina);
-        }
+
+        currentStamina = Mathf.Clamp(currentStamina + amount, 0, maxStamina);
+        energyBar.SetStamina(currentStamina);
     }
 
     public void ChangeStarvationLevel(float amount)
     {
-        if (amount > 0)
-        {
-            starvationLevel = Mathf.Clamp(starvationLevel + amount, 0, maxStarvationLevel);
-            starvationBar.SetStarvationLevel(starvationLevel);
-        }
+        starvationLevel = Mathf.Clamp(starvationLevel + amount, 0, maxStarvationLevel);
+        starvationBar.SetStarvationLevel(starvationLevel);
     }
 }

@@ -93,10 +93,13 @@ public class UIItem : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, 
                             i = item.stats["Haltbarkeit"];
                             UpdateItem(item);
                             tooltip.GenerateTooltip(item);
+
+                            player.ChangeStamina(-1);
+                            player.ChangeStarvationLevel(-0.1f);
                         }
                         else
                         {
-                            item.hasItem = false;
+                            item.hasBreakoutItem = false;
                             item.stats["Haltbarkeit"] = 10;
                             tooltip.gameObject.SetActive(false);
                             UpdateItem(null);
