@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 8b0ca3949e9171040b12bb964eeb7846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9001253760266042896
+    second: GuardUp_1
+  - first:
+      213: 4243274929880722694
+    second: GuardUp_2
+  - first:
+      213: 7763842694981852927
+    second: GuradUp_3
+  - first:
+      213: 8756742521941274733
+    second: GuardUp_4
+  - first:
+      213: 1130138023184142115
+    second: GuardDown_1
+  - first:
+      213: 202275250887411218
+    second: GuardDown_2
+  - first:
+      213: -761807389233301135
+    second: GuardDown_3
+  - first:
+      213: 3955299963662053282
+    second: GuardDown_4
+  - first:
+      213: -4874293842412476839
+    second: _ry1_8
+  - first:
+      213: 2459587140726293918
+    second: GuardLeft_1
+  - first:
+      213: -3080509818823512333
+    second: GuardLeft_2
+  - first:
+      213: -1506610341943666962
+    second: GuardLeft_3
+  - first:
+      213: 2627754006118558266
+    second: GuardLeft_4
+  - first:
+      213: -7376859169704377201
+    second: GuardSheet_0
+  - first:
+      213: 8424451032879875135
+    second: GuardSheet_1
+  - first:
+      213: 8333149089119011619
+    second: GuardSheet_2
+  - first:
+      213: -3274545717076820045
+    second: GuardSheet_3
+  - first:
+      213: -3794717251746161470
+    second: GuardSheet_4
+  - first:
+      213: 3185302295076713159
+    second: GuardSheet_5
+  - first:
+      213: 1529386861018888424
+    second: GuardSheet_6
+  - first:
+      213: 7522577810608100231
+    second: GuardSheet_7
+  - first:
+      213: 5287408623817885706
+    second: GuardSheet_8
+  - first:
+      213: 4241254749468462192
+    second: GuardSheet_9
+  - first:
+      213: 6773501764363555783
+    second: GuardSheet_10
+  - first:
+      213: 4646618303181719311
+    second: GuardSheet_11
+  - first:
+      213: -1275673620098805060
+    second: GuardSheet_12
+  - first:
+      213: 4784679021048753677
+    second: GuardSheet_13
+  - first:
+      213: 3366457752286800910
+    second: GuardSheet_14
+  - first:
+      213: -5744730418189559744
+    second: GuardSheet_15
+  - first:
+      213: 731399134647247398
+    second: GuardSheet_16
+  - first:
+      213: -8760862408974763287
+    second: GuardSheet_17
+  - first:
+      213: 8451003255855961651
+    second: GuardSheet_18
+  - first:
+      213: -1493550133703790945
+    second: GuardSheet_19
+  - first:
+      213: 1800552318757591080
+    second: GuardSheet_20
+  - first:
+      213: 3846428466723693066
+    second: GuardSheet_21
+  - first:
+      213: -240315741139228316
+    second: GuardSheet_22
+  - first:
+      213: -736473362772823648
+    second: GuardSheet_23
+  - first:
+      213: -7361543148901188995
+    second: GuardSheet_24
+  - first:
+      213: 4480532087865073207
+    second: GuardSheet_25
+  - first:
+      213: 7044201176037262060
+    second: GuardSheet_26
+  - first:
+      213: 6162124338734978764
+    second: GuardSheet_27
+  - first:
+      213: -3946935734911198870
+    second: GuardSheet_28
+  - first:
+      213: 5190579665952999585
+    second: GuardSheet_29
+  - first:
+      213: 9065230427173618480
+    second: GuardSheet_30
+  - first:
+      213: 7463154573935722606
+    second: GuardSheet_31
+  - first:
+      213: -3602631635461854987
+    second: GuardSheet_32
+  - first:
+      213: 5758305656038642379
+    second: GuardSheet_33
+  - first:
+      213: 8480999771833086269
+    second: GuardSheet_34
+  - first:
+      213: -2810867903395346194
+    second: GuardSheet_35
+  - first:
+      213: -3985899884427890739
+    second: GuardSheet_36
+  - first:
+      213: 6836312086263327057
+    second: GuardSheet_37
+  - first:
+      213: -2941348184419160654
+    second: GuardSheet_38
+  - first:
+      213: 6182482426386241755
+    second: GuardSheet_39
+  - first:
+      213: 1602911712166794168
+    second: GuardSheet_40
+  - first:
+      213: 8374346450806969765
+    second: GuardSheet_41
+  - first:
+      213: 9044114298145991465
+    second: GuardSheet_42
+  - first:
+      213: -3024339684036056789
+    second: GuardSheet_43
+  - first:
+      213: -3577627443383607626
+    second: GuardSheet_44
+  - first:
+      213: 308166733192023891
+    second: GuardSheet_45
+  - first:
+      213: 6441515316755591420
+    second: GuardSheet_46
+  - first:
+      213: -5186220345687037825
+    second: GuardSheet_47
+  - first:
+      213: 2772189250099055903
+    second: GuardSheet_48
+  - first:
+      213: 1756373136478894696
+    second: GuardSheet_49
+  - first:
+      213: 1146988945746514612
+    second: GuardSheet_50
+  - first:
+      213: -4677202026579149744
+    second: GuardSheet_51
+  - first:
+      213: -9114222608485588917
+    second: GuardSheet_52
+  - first:
+      213: 1877240562145051647
+    second: GuardSheet_53
+  - first:
+      213: 6762110376765519091
+    second: GuardSheet_54
+  - first:
+      213: 3065550241639154829
+    second: GuardSheet_55
+  - first:
+      213: 4220963431349094362
+    second: GuardSheet_56
+  - first:
+      213: -1554032152445642760
+    second: GuardSheet_57
+  - first:
+      213: 5626838159922028871
+    second: GuardSheet_58
+  - first:
+      213: 6807224596883838211
+    second: GuardSheet_59
+  - first:
+      213: 6024868692959561050
+    second: GuardSheet_60
+  - first:
+      213: -3528697773315272959
+    second: GuardSheet_61
+  - first:
+      213: 6227423367971242441
+    second: GuardSheet_62
+  - first:
+      213: 4496474215596129796
+    second: GuardSheet_63
+  - first:
+      213: 7865359427160568602
+    second: GuardSheet_64
+  - first:
+      213: 5218164133852805582
+    second: GuardSheet_65
+  - first:
+      213: 1808516480050849771
+    second: GuardSheet_66
+  - first:
+      213: -4592538581316637574
+    second: GuardSheet_67
+  - first:
+      213: -7805219993398739950
+    second: GuardSheet_68
+  - first:
+      213: 2465339196995145144
+    second: GuardSheet_69
+  - first:
+      213: -6369343686886651589
+    second: GuardSheet_70
+  - first:
+      213: 5665429779209334985
+    second: GuardSheet_71
+  - first:
+      213: 8060748515143177073
+    second: GuardSheet_72
+  - first:
+      213: 6399650769069527870
+    second: GuardSheet_73
+  - first:
+      213: -8158373563113963056
+    second: GuardSheet_74
+  - first:
+      213: -5906169355551806030
+    second: GuardSheet_75
+  - first:
+      213: 4372709546014492445
+    second: GuardSheet_76
+  - first:
+      213: -663858067954445254
+    second: GuardSheet_77
+  - first:
+      213: -4671379700826431609
+    second: GuardSheet_78
+  - first:
+      213: -1704680544525262166
+    second: GuardSheet_79
+  - first:
+      213: -1791965846141372660
+    second: GuardSheet_80
+  - first:
+      213: -540920726183688161
+    second: GuardSheet_81
+  - first:
+      213: -8264494248531590317
+    second: GuardSheet_82
+  - first:
+      213: -2467593516577062667
+    second: GuardSheet_83
+  - first:
+      213: -7944032081930952326
+    second: GuardSheet_84
+  - first:
+      213: -2176007692809137412
+    second: GuardSheet_85
+  - first:
+      213: 6378943714977873263
+    second: GuardSheet_86
+  - first:
+      213: -7021725242406509225
+    second: GuardSheet_87
+  - first:
+      213: 3009457288930847894
+    second: GuardSheet_88
+  - first:
+      213: -1934687103721857472
+    second: GuardSheet_89
+  - first:
+      213: 5225023598377769976
+    second: GuardSheet_90
+  - first:
+      213: -9075254658979405112
+    second: GuardSheet_91
+  - first:
+      213: 336889786474795593
+    second: GuardSheet_92
+  - first:
+      213: 4457222944286679646
+    second: GuardSheet_93
+  - first:
+      213: -1957937189151148121
+    second: GuardSheet_94
+  - first:
+      213: -1180016673435878191
+    second: GuardSheet_95
+  - first:
+      213: -6128288494735868793
+    second: GuardSheet_96
+  - first:
+      213: -6286823835318879796
+    second: GuardSheet_97
+  - first:
+      213: -7495356610178039734
+    second: GuardSheet_98
+  - first:
+      213: 7101479221536054289
+    second: GuardSheet_99
+  - first:
+      213: -3643888438310392464
+    second: GuardSheet_100
+  - first:
+      213: -7578605726679427400
+    second: GuardSheet_101
+  - first:
+      213: 2021296338870734229
+    second: GuardSheet_102
+  - first:
+      213: -2399184228986172304
+    second: GuardSheet_103
+  - first:
+      213: -7967267823525917535
+    second: GuardSheet_104
+  - first:
+      213: -4183513965515368779
+    second: GuardSheet_105
+  - first:
+      213: 4069975517993802253
+    second: GuardSheet_106
+  - first:
+      213: -7462545629910740777
+    second: GuardSheet_107
+  - first:
+      213: 7355328167727840113
+    second: GuardSheet_108
+  - first:
+      213: -6106034783220504860
+    second: GuardSheet_109
+  - first:
+      213: -6813014485936959149
+    second: GuardSheet_110
+  - first:
+      213: 3287776009883157362
+    second: GuardSheet_111
+  - first:
+      213: -6418186250559003056
+    second: GuardSheet_112
+  - first:
+      213: 5684990178759267886
+    second: GuardSheet_113
+  - first:
+      213: 6282508190600269959
+    second: GuardSheet_114
+  - first:
+      213: 5789890984942123931
+    second: GuardSheet_115
+  - first:
+      213: 3575661108027604385
+    second: GuardSheet_116
+  - first:
+      213: 7235953392884932034
+    second: GuardSheet_117
+  - first:
+      213: -1436261866106163955
+    second: GuardSheet_118
+  - first:
+      213: -4484602672868437487
+    second: GuardSheet_119
+  - first:
+      213: 3108476484390610826
+    second: GuardSheet_120
+  - first:
+      213: 3199459732153293930
+    second: GuardSheet_121
+  - first:
+      213: 94168816653701830
+    second: GuardSheet_122
+  - first:
+      213: 7686863521170359386
+    second: GuardSheet_123
+  - first:
+      213: 6190189953474399414
+    second: GuardSheet_124
+  - first:
+      213: 6584770676742714196
+    second: GuardSheet_125
+  - first:
+      213: -9000678574813116680
+    second: GuardSheet_126
+  - first:
+      213: -6917622812107321136
+    second: GuardSheet_127
+  - first:
+      213: -6689205013903528274
+    second: GuardSheet_128
+  - first:
+      213: 4360981332825428637
+    second: GuardSheet_129
+  - first:
+      213: 7351782643547987580
+    second: GuardSheet_130
+  - first:
+      213: 7507302889529801479
+    second: GuardSheet_131
+  - first:
+      213: -3569407393144230059
+    second: GuardSheet_132
+  - first:
+      213: 8909257244643124395
+    second: GuardSheet_133
+  - first:
+      213: -4022121173486058198
+    second: GuardSheet_134
+  - first:
+      213: -8476814568676136507
+    second: GuardSheet_135
+  - first:
+      213: 3216164069020982720
+    second: GuardSheet_136
+  - first:
+      213: -2513864740611025206
+    second: GuardSheet_137
+  - first:
+      213: 4699941410084578983
+    second: GuardSheet_138
+  - first:
+      213: 5233161299915338286
+    second: GuardSheet_139
+  - first:
+      213: -2959922806975629613
+    second: GuardSheet_140
+  - first:
+      213: -2827488353523336645
+    second: GuardSheet_141
+  - first:
+      213: -4399679658269240198
+    second: GuardSheet_142
+  - first:
+      213: -4401414829073585648
+    second: GuardSheet_143
+  - first:
+      213: -6783282729239951393
+    second: GuardSheet_144
+  - first:
+      213: -3798462353241841090
+    second: GuardSheet_145
+  - first:
+      213: 8543079258115745980
+    second: GuardSheet_146
+  - first:
+      213: 5913345748467792714
+    second: GuardSheet_147
+  - first:
+      213: -6222330919517316722
+    second: GuardSheet_148
+  - first:
+      213: 2826472275589666276
+    second: GuardSheet_149
+  - first:
+      213: 8315128697081448083
+    second: GuardSheet_150
+  - first:
+      213: 6048832228479199779
+    second: GuardSheet_151
+  - first:
+      213: 2322790263876566203
+    second: GuardSheet_152
+  - first:
+      213: 1760017724839918097
+    second: GuardSheet_153
+  - first:
+      213: 3195832339803119570
+    second: GuardSheet_154
+  - first:
+      213: 8850233181305365735
+    second: GuardSheet_155
+  - first:
+      213: 1464515462875330732
+    second: GuardSheet_156
+  - first:
+      213: -3278515734746793595
+    second: GuardSheet_157
+  - first:
+      213: 1205453818065793621
+    second: GuardSheet_158
+  - first:
+      213: 5362731494648308464
+    second: GuardSheet_159
+  - first:
+      213: -3963731562520869655
+    second: GuardSheet_160
+  - first:
+      213: -40021589746011548
+    second: GuardSheet_161
+  - first:
+      213: 3524003156295450674
+    second: GuardSheet_162
+  - first:
+      213: -7681532520033419065
+    second: GuardSheet_163
+  - first:
+      213: 785899031771181987
+    second: GuardSheet_164
+  - first:
+      213: 2785220324045371924
+    second: GuardSheet_165
+  - first:
+      213: -2014737909061467796
+    second: GuardSheet_166
+  - first:
+      213: 5247380884362113104
+    second: GuardSheet_167
+  - first:
+      213: 8570802205478003026
+    second: GuardSheet_168
+  - first:
+      213: 7873944239205547158
+    second: GuardSheet_169
+  - first:
+      213: 1998769249730079685
+    second: GuardSheet_170
+  - first:
+      213: -3673360140002230515
+    second: GuardSheet_171
+  - first:
+      213: -5359304624204465945
+    second: GuardSheet_172
+  - first:
+      213: -8536767292667179564
+    second: GuardSheet_173
+  - first:
+      213: -5452533404699581401
+    second: GuardSheet_174
+  - first:
+      213: -3837637870492128589
+    second: GuardSheet_175
+  - first:
+      213: -1042476586771395911
+    second: GuardSheet_176
+  - first:
+      213: -7133633075716776974
+    second: GuardSheet_177
+  - first:
+      213: -4908604651025926111
+    second: GuardSheet_178
+  - first:
+      213: 6810200417644982365
+    second: GuardSheet_179
+  - first:
+      213: -8414039447439193036
+    second: GuardSheet_180
+  - first:
+      213: 8988332201652642144
+    second: GuardSheet_181
+  - first:
+      213: -4813597504848188172
+    second: GuardSheet_182
+  - first:
+      213: 2691432402642340509
+    second: GuardSheet_183
+  - first:
+      213: -5603098353162702896
+    second: GuardSheet_184
+  - first:
+      213: -7332541011114756899
+    second: GuardSheet_185
+  - first:
+      213: 1522586593436225414
+    second: GuardSheet_186
+  - first:
+      213: -4032366430844116536
+    second: GuardSheet_187
+  - first:
+      213: 8776378384972236001
+    second: GuardSheet_188
+  - first:
+      213: -3841367602235853229
+    second: GuardSheet_189
+  - first:
+      213: -1453077835225885891
+    second: GuardSheet_190
+  - first:
+      213: -7036272107904308089
+    second: GuardSheet_191
+  - first:
+      213: 5293356480623371142
+    second: GuardSheet_192
+  - first:
+      213: 7552409011108226759
+    second: GuardSheet_193
+  - first:
+      213: -6682403990609257390
+    second: GuardSheet_194
+  - first:
+      213: 4428157295383193459
+    second: GuardSheet_195
+  - first:
+      213: -2163621997480135515
+    second: GuardSheet_196
+  - first:
+      213: -5253196627398570137
+    second: GuardSheet_197
+  - first:
+      213: 7403077996005261410
+    second: GuardSheet_198
+  - first:
+      213: 5484657508727681394
+    second: GuardSheet_199
+  - first:
+      213: -1582744112944307272
+    second: GuardSheet_200
+  - first:
+      213: 8766829066076755228
+    second: GuardSheet_201
+  - first:
+      213: 8275129621062108990
+    second: GuardSheet_202
+  - first:
+      213: -3523859247077657375
+    second: GuardSheet_203
+  - first:
+      213: -875689073307961230
+    second: GuardSheet_204
+  - first:
+      213: 2867292677348277991
+    second: GuardSheet_205
+  - first:
+      213: 5772892456986640284
+    second: GuardSheet_206
+  - first:
+      213: -7390815783319760652
+    second: GuardSheet_207
+  - first:
+      213: -738676066816068495
+    second: GuardSheet_208
+  - first:
+      213: -6368520579867262165
+    second: GuardSheet_209
+  - first:
+      213: -8218980059314479561
+    second: GuardSheet_210
+  - first:
+      213: 2859219989287101156
+    second: GuardSheet_211
+  - first:
+      213: -1352630183173052097
+    second: GuardSheet_212
+  - first:
+      213: -3313369858887808238
+    second: GuardSheet_213
+  - first:
+      213: -9136261524541334738
+    second: GuardSheet_214
+  - first:
+      213: -7777396067870444375
+    second: GuardSheet_215
+  - first:
+      213: -6278932074322738835
+    second: GuardSheet_216
+  - first:
+      213: -6643242580714221595
+    second: GuardSheet_217
+  - first:
+      213: 5364122190785000498
+    second: GuardSheet_218
+  - first:
+      213: -629840984431883331
+    second: GuardSheet_219
+  - first:
+      213: -5765258804887573904
+    second: GuardSheet_220
+  - first:
+      213: 1705983114234874480
+    second: GuardSheet_221
+  - first:
+      213: 6150510607131585802
+    second: GuardSheet_222
+  - first:
+      213: -8569895569865090813
+    second: GuardSheet_223
+  - first:
+      213: 6904007740316898770
+    second: GuardSheet_224
+  - first:
+      213: -160375777833939
+    second: GuardSheet_225
+  - first:
+      213: -4446065341643003332
+    second: GuardSheet_226
+  - first:
+      213: 1609848259131924010
+    second: GuardSheet_227
+  - first:
+      213: 4020500692312322568
+    second: GuardSheet_228
+  - first:
+      213: 2189356405199011447
+    second: GuardSheet_229
+  - first:
+      213: 8363109795408990974
+    second: GuardSheet_230
+  - first:
+      213: -2471102743061579456
+    second: GuardSheet_231
+  - first:
+      213: -360437396173161609
+    second: GuardSheet_232
+  - first:
+      213: 8009541010774400448
+    second: GuardSheet_233
+  - first:
+      213: -3342524124011882450
+    second: GuardSheet_234
+  - first:
+      213: -2455831603472592641
+    second: GuardSheet_235
+  - first:
+      213: -1316123915794302490
+    second: GuardSheet_236
+  - first:
+      213: 6795394104624797934
+    second: GuardSheet_237
+  - first:
+      213: -8378533786749140294
+    second: GuardSheet_238
+  - first:
+      213: -3644526743126772930
+    second: GuardSheet_239
+  - first:
+      213: -3691237738926322500
+    second: GuardSheet_240
+  - first:
+      213: 4599408944316330022
+    second: GuardSheet_241
+  - first:
+      213: 7620345511203122744
+    second: GuardSheet_242
+  - first:
+      213: -415922070758930769
+    second: GuardSheet_243
+  - first:
+      213: -3349260842177986370
+    second: GuardSheet_244
+  - first:
+      213: -3061398493844750741
+    second: GuardSheet_245
+  - first:
+      213: 2749663921801953655
+    second: GuardSheet_246
+  - first:
+      213: 1704397629724796870
+    second: GuardSheet_247
+  - first:
+      213: 2892854075991197847
+    second: GuardSheet_248
+  - first:
+      213: -6509406318418228934
+    second: GuardSheet_249
+  - first:
+      213: -8388599057336921812
+    second: GuardSheet_250
+  - first:
+      213: -6721137692176497673
+    second: GuardSheet_251
+  - first:
+      213: -3275423417357672404
+    second: GuardSheet_252
+  - first:
+      213: -185226664486011488
+    second: GuardSheet_253
+  - first:
+      213: 7358580410734437667
+    second: GuardSheet_254
+  - first:
+      213: -4718380409655342168
+    second: GuardSheet_255
+  - first:
+      213: 8925164298608489714
+    second: GuardSheet_256
+  - first:
+      213: -9063782490681977082
+    second: GuardSheet_257
+  - first:
+      213: -3697707198731678743
+    second: GuardSheet_258
+  - first:
+      213: -445094790659926471
+    second: GuardSheet_259
+  - first:
+      213: 5867280992041603952
+    second: GuardSheet_260
+  - first:
+      213: -701933929132634555
+    second: GuardSheet_261
+  - first:
+      213: -7302286845804720398
+    second: GuardSheet_262
+  - first:
+      213: 5604450651861175764
+    second: GuardSheet_263
+  - first:
+      213: -4173491296560887034
+    second: GuardSheet_264
+  - first:
+      213: 4581323197227500681
+    second: GuardSheet_265
+  - first:
+      213: -5160816050459505026
+    second: GuardSheet_266
+  - first:
+      213: -4568119935054682265
+    second: GuardSheet_267
+  - first:
+      213: 288059016122666676
+    second: GuardSheet_268
+  - first:
+      213: 78185708265004337
+    second: GuardSheet_269
+  - first:
+      213: -2476041720723079706
+    second: GuardSheet_270
+  - first:
+      213: 7577745779554224920
+    second: GuardSheet_271
+  - first:
+      213: -7468307216988145962
+    second: GuardSheet_272
+  - first:
+      213: -5883541289684694261
+    second: GuardSheet_273
+  - first:
+      213: 7770261347333945945
+    second: GuardSheet_274
+  - first:
+      213: -599526510469499443
+    second: GuardSheet_275
+  - first:
+      213: -1687153782862673558
+    second: GuardSheet_276
+  - first:
+      213: 4305102036579909262
+    second: GuardSheet_277
+  - first:
+      213: -8109719229780474855
+    second: GuardSheet_278
+  - first:
+      213: 6971459743597561700
+    second: GuardSheet_279
+  - first:
+      213: -2879188443802587098
+    second: GuardSheet_280
+  - first:
+      213: 6197642440410874232
+    second: GuardSheet_281
+  - first:
+      213: -7500766437324441732
+    second: GuardSheet_282
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuardUp_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20.604877, y: -94.500465}
+        - {x: 20.604877, y: -88.25535}
+        - {x: 30.595121, y: -82.01023}
+        - {x: 33.09268, y: -74.51609}
+        - {x: 33.09268, y: -64.5239}
+        - {x: 31.843903, y: -57.029766}
+        - {x: 30.595121, y: -52.033672}
+        - {x: 36.839024, y: -54.53172}
+        - {x: 40.585365, y: -54.53172}
+        - {x: 46.82927, y: -50.78465}
+        - {x: 50.57561, y: -47.03758}
+        - {x: 51.82439, y: -42.041485}
+        - {x: 48.07805, y: -38.294415}
+        - {x: 40.585365, y: -34.547344}
+        - {x: 38.087807, y: -27.053204}
+        - {x: 38.087807, y: -14.562969}
+        - {x: 39.336586, y: -2.0727355}
+        - {x: 36.839024, y: 12.915545}
+        - {x: 35.590244, y: 25.405779}
+        - {x: 35.590244, y: 41.643085}
+        - {x: 33.09268, y: 45.390156}
+        - {x: 29.346342, y: 46.63918}
+        - {x: 14.360975, y: 50.38625}
+        - {x: 5.619512, y: 59.129414}
+        - {x: 10.6146345, y: 62.876484}
+        - {x: 15.609756, y: 72.86867}
+        - {x: 18.107317, y: 79.113785}
+        - {x: 18.107317, y: 89.10597}
+        - {x: 23.10244, y: 96.60011}
+        - {x: 23.10244, y: 99.09816}
+        - {x: 20.604877, y: 115.335464}
+        - {x: 10.6146345, y: 126.576675}
+        - {x: 4.370732, y: 127.5}
+        - {x: -18.107317, y: 127.5}
+        - {x: -24.35122, y: 126.576675}
+        - {x: -28.09756, y: 124.07863}
+        - {x: -34.341465, y: 119.082535}
+        - {x: -36.839024, y: 112.83742}
+        - {x: -39.336586, y: 102.84523}
+        - {x: -39.336586, y: 92.85304}
+        - {x: -34.341465, y: 90.354996}
+        - {x: -33.09268, y: 85.3589}
+        - {x: -31.843903, y: 79.113785}
+        - {x: -24.35122, y: 64.1255}
+        - {x: -14.360975, y: 51.635273}
+        - {x: -19.356098, y: 46.63918}
+        - {x: -21.853659, y: 42.89211}
+        - {x: -38.087807, y: 40.394062}
+        - {x: -41.834145, y: 35.39797}
+        - {x: -44.331707, y: 22.907732}
+        - {x: -44.331707, y: 11.666522}
+        - {x: -46.82927, y: -7.068829}
+        - {x: -46.82927, y: -25.80418}
+        - {x: -45.580486, y: -35.796368}
+        - {x: -45.580486, y: -49.535625}
+        - {x: -44.331707, y: -55.780743}
+        - {x: -48.07805, y: -59.527813}
+        - {x: -53.07317, y: -67.02195}
+        - {x: -59.317074, y: -72.01804}
+        - {x: -59.317074, y: -82.01023}
+        - {x: -53.07317, y: -90.753395}
+        - {x: -46.82927, y: -89.50437}
+        - {x: -36.839024, y: -84.50828}
+        - {x: -18.107317, y: -88.25535}
+        - {x: -16.858536, y: -101.994606}
+        - {x: -26.84878, y: -101.994606}
+        - {x: -35.590244, y: -103.24363}
+        - {x: -39.336586, y: -106.9907}
+        - {x: -39.336586, y: -109.48875}
+        - {x: -28.09756, y: -120.72996}
+        - {x: -14.360975, y: -119.480934}
+        - {x: -8.117073, y: -119.480934}
+        - {x: -6.868293, y: -123.228004}
+        - {x: -3.121951, y: -126.975075}
+        - {x: 1.8731707, y: -126.975075}
+        - {x: 6.868293, y: -120.72996}
+        - {x: 11.863415, y: -106.9907}
+        - {x: 16.858536, y: -100.74558}
+      - - {x: -1.8731707, y: -82.01023}
+        - {x: -4.370732, y: -74.51609}
+        - {x: -5.619512, y: -72.01804}
+        - {x: -3.121951, y: -69.52}
+        - {x: -4.370732, y: -67.02195}
+        - {x: -5.619512, y: -72.01804}
+        - {x: 1.8731707, y: -79.512184}
+        - {x: 1.8731707, y: -78.26316}
+        - {x: -0.62439024, y: -80.76121}
+        - {x: -1.8731707, y: -84.50828}
+        - {x: -1.8731707, y: -90.753395}
+        - {x: -3.121951, y: -93.25144}
+        - {x: -1.8731707, y: -93.25144}
+      - - {x: 21.853659, y: -38.294415}
+        - {x: 21.853659, y: -30.800274}
+        - {x: 20.604877, y: -29.55125}
+        - {x: 20.604877, y: -19.559063}
+        - {x: 19.356098, y: -18.31004}
+        - {x: 19.356098, y: -14.562969}
+        - {x: 18.107317, y: -13.313946}
+        - {x: 16.858536, y: -5.8198056}
+        - {x: 18.107317, y: -8.317853}
+        - {x: 18.107317, y: -15.811993}
+        - {x: 19.356098, y: -17.061016}
+        - {x: 19.356098, y: -34.547344}
+        - {x: 20.604877, y: -38.294415}
+        - {x: 24.35122, y: -43.29051}
+        - {x: 24.35122, y: -42.041485}
+      tessellationDetail: 0.5
+      bones: []
+      spriteID: 0f1813e456f151380800000000000000
+      internalID: -9001253760266042896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardUp_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1023
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d6cdf111423ea30800000000000000
+      internalID: 4243274929880722694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuradUp_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1022
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe9766ebc5bebb60800000000000000
+      internalID: 7763842694981852927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardUp_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d603ed1bde2368970800000000000000
+      internalID: 8756742521941274733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardDown_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f8d0b5b8e0faf00800000000000000
+      internalID: 1130138023184142115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardDown_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2164ffbd440aec200800000000000000
+      internalID: 202275250887411218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardDown_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 767
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793b7937348d65f0800000000000000
+      internalID: -761807389233301135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardDown_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af21326c5c04e630800000000000000
+      internalID: 3955299963662053282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardLeft_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e950c191975322220800000000000000
+      internalID: 2459587140726293918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardLeft_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 511
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feebe914a4df35d0800000000000000
+      internalID: -3080509818823512333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardLeft_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6948950e1771be0800000000000000
+      internalID: -1506610341943666962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardLeft_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 511
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a6ecb9858a77420800000000000000
+      internalID: 2627754006118558266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
