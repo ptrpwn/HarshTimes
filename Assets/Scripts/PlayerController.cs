@@ -38,7 +38,7 @@ public class PlayerController : MonoBehaviour
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
 
-        currentStamina = 0.3f;
+        currentStamina = 3.5f;
         energyBar.SetMaxStamina(maxStamina);
         energyBar.SetStamina(currentStamina);
 
@@ -108,13 +108,16 @@ public class PlayerController : MonoBehaviour
         }
 
         currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
+        if (currentHealth <= 0)
+        {
+            SceneManager.LoadScene(0);
+        }
         healthBar.SetHealth(currentHealth);
     }
 
 
     public void ChangeStamina(int amount)
     {
-
         currentStamina = Mathf.Clamp(currentStamina + amount, 0, maxStamina);
         energyBar.SetStamina(currentStamina);
     }

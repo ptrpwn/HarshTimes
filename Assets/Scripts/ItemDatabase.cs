@@ -82,6 +82,31 @@ public class ItemDatabase : MonoBehaviour
                 new Dictionary<string, int>
                 {
                     {"Roman Kornijenko", 1944}
+                }),
+                new Item(52, "Tagebucheintrag #1", "Am 4. August 1944 bewerfen deutsche und ukrainische Soldaten Stefania Jadwiga Włodarczyks Haus mit Granaten. »Ich erinnere mich, dass wir nicht aus dem Haus gehen konnten, weil draußen geschossen wurde. Danach befahlen uns die Deutschen (meine Familie bestand zu dem Zeitpunkt aus meinen Eltern und fünf Kindern zwischen sieben Monaten und 13 Jahren) und allen anderen Hausbewohnern, das Haus zu verlassen und sich im Hof zu versammeln. Wir durften keinerlei Sachen aus der Wohnung mitnehmen. Als alle draußen waren, wurde unser Haus angezündet. So wie ich da stand, gekleidet nur in mein Sommerkleid, trieben uns die Deutschen zum Warschauer Westbahnhof. Wer das Tempo nicht mithalten konnte, wurde auf der Stelle erschossen.«",
+                new Dictionary<string, int>
+                {
+                    {"Stefania Jadwiga Włodarczyk", 2007}
+                }),
+                new Item(53, "Tagebucheintrag #17", "»Sie brachten uns zum Bahnhof und verluden uns in einen Güterzug Richtung Brenner. Wir verbrachten die Nacht einer auf dem anderen liegend. (…) Man wusste nicht, wohin man kam. (…) Ab und zu ein Halt. Scharfe Bremsungen durch die extreme Länge des Konvois. (…) Nachts konnten wir kaum schlafen. Durcheinander der Rucksäcke und verschiedenster Dinge, Kameraden (…), die immer wütend herumschrien. Wir wechselten uns dabei ab, mit baumelnden Beinen an den Seitenöffnungen des Waggons zu sitzen.«",
+                new Dictionary<string, int>
+                {
+                    {"Giuseppe Chiampo", 1943}
+                }),
+                new Item(54, "Tagebucheintrag #25", "»So ungefähr 70 Personen waren im Waggon. Und zwei Eimer, und in einem war Wasser und das andere war das WC. So 70, 80 Personen ungefähr, alte, junge. Und so kleines Fenster ist gewesen. Sehr eng, sehr eng. Und der Weg dauert zweiundhalb Tage. Und wir wussten nicht, (…) wohin werden wir fahren.«",
+                new Dictionary<string, int>
+                {
+                    {"Katalin Forgács", 2008}
+                }),
+                new Item(55, "Tagebucheintrag #38", "Zwangsarbeitende bei der Reichsbahn litten meistens unter schlechten Arbeitsbedingungen. Für die harte körperliche Arbeit bei oft weiten Arbeitswegen gab es selten genug zu essen. [...] Ausbesserungswerke waren in den Kriegsjahren von zentraler Bedeutung innerhalb des Reichsbahn-Apparats. Daher erhielten sie bevorzugt Arbeitskräfte zugewiesen.",
+                new Dictionary<string, int>
+                {
+                    {"Text der Ausstellung 'Zwangsarbeit in Niedersachsen'", 2015}
+                }),
+                new Item(56, "Tagebucheintrag #39", "Der Arbeitsdruck im RAW Göttingen war sehr hoch – schon für die deutschen Beschäftigten galt eine 63-Stunden-Woche bei Sonntagsarbeit und totaler Urlaubssperre – und die Arbeit sehr schwer: Eine [...] Kolonne reinigte die stark verschmutzte Lokunterseite mittels einer giftigen Mischung aus sehr heißem Wasser und Sodalösung. Dieses »scharfe Wasser« verätzte die Hände und beim Einatmen auch die Lungen. Eine dritte Kolonne musste unter hohem Arbeitsdruck entlang der durch die Halle wandernden Lok den Zusammenbau vornehmen. Aufgrund dieser hektischen und giftigen Arbeit, ungenügender Beleuchtung, fehlender Schutzbekleidung, Unterernährung und zunehmender körperlicher Erschöpfung kam es zu Verletzungen und schweren Unfällen.",
+                new Dictionary<string, int>
+                {
+                    {"Text der Ausstellung 'Zwangsarbeit in Niedersachsen'", 2015}
                 })
         };
     }

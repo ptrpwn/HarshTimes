@@ -5,9 +5,7 @@ using UnityEngine.EventSystems;
 
 public class Collectables : MonoBehaviour
 {
-    private Item item;
-
-    //Pickup collectible items
+    //Pickup collectable items
     void OnTriggerEnter2D(Collider2D other)
     {
         PlayerController controller = other.GetComponent<PlayerController>();
@@ -16,48 +14,18 @@ public class Collectables : MonoBehaviour
         {
             if (gameObject.name == "Spitzhacke")
             {
-                item = controller.GetComponent<Inventory>().CheckForItem(0);
-
-                if (item.hasBreakoutItem)
-                {
-                    Debug.Log(item.title + " already in inventory");
-                }
-                else
-                {
-                    controller.GetComponent<Inventory>().GiveItem(0);
-                    item.hasBreakoutItem = true;
-                    Destroy(gameObject);
-                }
+                controller.GetComponent<Inventory>().GiveItem(0);
+                Destroy(gameObject);
             }
             if (gameObject.name == "Schaufel")
             {
-                item = controller.GetComponent<Inventory>().CheckForItem(1);
-
-                if (item.hasBreakoutItem)
-                {
-                    Debug.Log(item.title + " already in inventory");
-                }
-                else
-                {
-                    controller.GetComponent<Inventory>().GiveItem(1);
-                    item.hasBreakoutItem = true;
-                    Destroy(gameObject);
-                }
+                controller.GetComponent<Inventory>().GiveItem(1);
+                Destroy(gameObject);
             }
             if (gameObject.name == "Zange")
             {
-                item = controller.GetComponent<Inventory>().CheckForItem(7);
-
-                if (item.hasBreakoutItem)
-                {
-                    Debug.Log(item.title + " already in inventory");
-                }
-                else
-                {
-                    controller.GetComponent<Inventory>().GiveItem(7);
-                    item.hasBreakoutItem = true;
-                    Destroy(gameObject);
-                }
+                controller.GetComponent<Inventory>().GiveItem(7);
+                Destroy(gameObject);
             }
             if (gameObject.name == "Erdbeere")
             {
@@ -92,6 +60,31 @@ public class Collectables : MonoBehaviour
             if (gameObject.name == "Tagebucheintrag #29")
             {
                 controller.GetComponent<Inventory>().GiveItem(51);
+                Destroy(gameObject);
+            }
+            if (gameObject.name == "Tagebucheintrag #1")
+            {
+                controller.GetComponent<Inventory>().GiveItem(52);
+                Destroy(gameObject);
+            }
+            if (gameObject.name == "Tagebucheintrag #17")
+            {
+                controller.GetComponent<Inventory>().GiveItem(53);
+                Destroy(gameObject);
+            }
+            if (gameObject.name == "Tagebucheintrag #25")
+            {
+                controller.GetComponent<Inventory>().GiveItem(54);
+                Destroy(gameObject);
+            }
+            if (gameObject.name == "Tagebucheintrag #38")
+            {
+                controller.GetComponent<Inventory>().GiveItem(55);
+                Destroy(gameObject);
+            }
+            if (gameObject.name == "Tagebucheintrag #39")
+            {
+                controller.GetComponent<Inventory>().GiveItem(56);
                 Destroy(gameObject);
             }
         }

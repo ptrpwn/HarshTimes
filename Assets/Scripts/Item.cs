@@ -20,7 +20,7 @@ public class Item
         this.stats = stats;
         hasBreakoutItem = true;
 
-        if (this.id == 50 || this.id == 51)
+        if (this.id == 50 || this.id == 51 || this.id == 52 || this.id == 53 || this.id == 54 || this.id == 55 || this.id == 56)
         {
             icon = Resources.Load<Sprite>("Sprites/Items/Tagebucheintrag");
         }

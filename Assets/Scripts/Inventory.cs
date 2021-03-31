@@ -8,6 +8,7 @@ public class Inventory : MonoBehaviour
     public ItemDatabase itemDatabase;
     public UIInventory inventoryUI;
     public UIItem useItem;
+    public UITooltip tooltip;
     public Item item;
     bool inventoryOpen = false;
 
@@ -48,13 +49,15 @@ public class Inventory : MonoBehaviour
         }
     }
 
-    //Check if add to/remove from inventory works
+    private void Awake()
+    {
+        tooltip = GameObject.Find("Tooltip").GetComponent<UITooltip>();
+    }
+
+    //Don't show inventory on startup
     private void Start()
     {
         inventoryUI.gameObject.SetActive(false);
-        GiveItem("Spitzhacke");
-        GiveItem(1);
-        //RemoveItem(1);
     }
 
     //Open & close inventory
@@ -63,6 +66,7 @@ public class Inventory : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.I) || Input.GetKeyDown(KeyCode.Tab))
         {
             inventoryUI.gameObject.SetActive(!inventoryUI.gameObject.activeSelf);
+            tooltip.gameObject.SetActive(false);
             if (!inventoryOpen)
             {
                 inventoryOpen = true;
